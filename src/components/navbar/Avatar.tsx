@@ -4,9 +4,9 @@ import React from 'react'
 const Avatar = () => {
   return (
     <Image 
-        src={'/call.png'}
+        src={'/user.png'}
         className=''
-        width={30}
+        width={30} 
         height={30}
         alt='avatar'
     />
